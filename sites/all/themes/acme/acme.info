@@ -1,0 +1,6 @@
+name = Acme
+description = This is for LUYT training.
+core = 7.x
+engine = phptemplate
+
+stylesheets[all][] = styles/acme.css

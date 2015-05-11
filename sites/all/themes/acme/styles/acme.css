@@ -1,0 +1,25 @@
+#site-name a {
+	color: red;
+	font-size: 48px;
+}
+
+#header {
+	background-color: #DEDEDE;
+	padding: 10px 30px 20px;
+	margin-bottom: 20px;
+}
+
+body {
+	font-size: 100%;
+}
+
+h1, h2, h3 {
+	font-family: ‘Arial Narrow’, sans-serif;
+}
+
+p {
+	color: #333333;
+	font-family: ‘Arial Narrow’, sans-serif;
+	font-size: 1em;
+	line-height: 1.5em;
+}
